@@ -1,0 +1,110 @@
+body {
+    
+    background-image:url("waffle.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+li {
+    list-style: none;
+   }
+
+.header {
+    
+    height:10vh;
+    
+}
+
+
+.header-list li{
+    float: left;
+    padding: 33px;
+    padding-left: 40px;
+}
+
+
+
+.header-logo {
+    float: left;
+    font-size: 40px;
+    padding: 20px 40px;
+}
+
+.main {
+    height:auto;
+
+}
+.contents{
+    margin:100px;
+}
+
+.contents h1{
+    text-align:center;
+    font-family:serif;
+    font-size: 40px;
+    width:400px;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.contents p{
+    font-family:serif;
+    font-size: 20px;
+    padding: 10px;
+    width:600px;
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+}
+
+
+
+
+
+
+
+
+
+  .list {
+    color:darkslategray;
+  }
+
+
+
+.footer1{
+    height: 90px;
+    padding-bottom:40px;
+    
+}
+
+.footer2-list li{
+    
+    float:left;
+    width: 200px;
+    margin: auto;
+    overflow: hidden;
+}
+
+.footer3 {
+    height:90px;
+    padding:40px;
+    background-color:darkslategray;
+    color: white;
+}
+
+.footer3-logo {
+    float:left;
+    font-size:32px;
+}
+
+.footer3-list {
+    float:right;
+    
+}
+
+.footer3-list li {
+    padding-bottom:20px;
+}
+
+
+
